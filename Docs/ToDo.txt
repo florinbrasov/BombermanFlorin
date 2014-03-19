@@ -1,0 +1,15 @@
+﻿Scriem ce avem de facut:
+Madalina:
+
+- intrebat prof daca putem sa folosim IObservalble din C# + Cum se foloseste Observer ??
+- cerut curs prof
+- documentat Unit Testing
+
+Florin:
+- 3 Foldere : Model, View, Controller
+- Clasa View in folderul de View ( e de fapt clasa Main, daca vrei o redenumesti)
+- Clasa Controller in folderul Controller
+- Restul in folderul Model
+- Spor!
+Vlad:
+- timer
